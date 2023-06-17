@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-/* Nhap vao 1 ma tran bat ky voi so hang, cot cho truoc, tim so lon nhat va nho nhat cua ma tran */
+/* Nhap vao 1 ma tran bat ky [-50;100] voi so hang, cot cho truoc, tim so lon nhat va nho nhat cua ma tran */
 using namespace std;
 void Nhapmatran(int **&M, int n) {
 	srand(time(NULL));
