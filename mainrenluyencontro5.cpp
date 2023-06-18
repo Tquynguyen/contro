@@ -1,7 +1,7 @@
 #include <iostream>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-/* tim so 3 lon nhat voi mot mang duoc nhap voi n phan tu cho truoc */
+/* tim toi da 3 so lon nhat voi mot mang duoc nhap voi n phan tu cho truoc */
 using namespace std;
 int *capbonho(int n) {
 	int *M=new int[n];
